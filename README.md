@@ -1,2 +1,2 @@
 # CDDS-support
-Support for the Climate Data Dissemination System
+A Github project to enable support for CDDS related activities under UKNCSP
